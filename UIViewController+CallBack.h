@@ -25,7 +25,7 @@
 
 #import <UIKit/UIKit.h>
 
-typedef void (^UIViewControllerResultBlock)(id resultObjectr);
+typedef void (^UIViewControllerResultBlock)(id resultObject);
 
 @interface UIViewController (CallBack)
 
